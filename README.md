@@ -53,6 +53,10 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests if applicable.
 
+## Contributors
+
+- ujalajha
+
 ## License
 
 This project is licensed under the MIT License.
